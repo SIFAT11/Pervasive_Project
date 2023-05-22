@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Pervasive_Project</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="sifat_details">
+        \nName : Md. Sifat Ullah
+        \nAge : 22
+        \nEmail: sifat15-3402@diu.edu.bd
+    </string>
+
+    <string-array name="spinner">
+        <item> </item>
+        <item>Basic Cal</item>
+        <item>Scientific Cal</item>
+        <item>Quiz App</item>
+        <item>BMI Cal</item>
+        <item>Money Convert</item>
+
+    </string-array>
+</resources>
